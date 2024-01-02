@@ -1,0 +1,484 @@
+body {
+  margin-right: 1em;
+  margin-left: 1em;
+  text-align: justify;
+}
+
+.navbar-brand {
+  margin-right: 600px;
+  margin-left: 200px;
+}
+
+.logo img {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 50vh;
+}
+
+.carousel img {
+  height: 94vh;
+}
+
+.room-cost {
+  text-align: center;
+}
+
+.room-cost li {
+  list-style: none;
+}
+
+.footer {
+  width: 1680px;
+  display: flex;
+  justify-content: center;
+  margin-top: 18px;
+  text-align: center;
+  margin-right: 1em;
+  margin-left: -1em;
+  background: #529dff;
+}
+
+.home iframe {
+  margin-left: 1em;
+  border-radius: 10px;
+}
+
+.footer h3 {
+  font-size: 50px;
+}
+
+.footer h4 {
+  font-size: 45px;
+}
+
+.footer a {
+  color: blue;
+}
+
+.address {
+  width: 40%;
+  padding: 20px;
+}
+
+.address h3 {
+  color: darkorange;
+  padding: 10px;
+}
+
+@media only screen and (min-width: 280px) and (max-width: 374px) {
+  /* Mobile S */
+  body {
+    font-size: small;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+  
+  .navbar-brand {
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
+  .carousel img {
+    height: 300px;
+  }
+
+  .logo img {
+    height: 35vh;
+    margin-left: 0px;
+  }
+
+  .elfsight-app-3ac1cce8-ea67-4613-820d-6449c121aa9a {
+    width: 270px;
+  }
+
+  .footer {
+    width: 280px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: block;
+  }
+
+  .footer h3 {
+    font-size: 30px;
+    width: 240px;
+  }
+
+  .footer h4 {
+    font-size: 25px;
+    width: 240px;
+  }
+
+  .footer a {
+    color: blue;
+  }
+
+  .footer iframe {
+    height: 220px;
+    width: 270px;
+    border-radius: 5px;
+  }
+}
+
+@media only screen and (min-width: 374px) and (max-width: 424px) {
+  /* Mobile M */
+  body {
+    font-size: small;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+  
+  .navbar-brand {
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
+  .carousel img {
+    height: 300px;
+  }
+
+  .logo img {
+    height: 45vh;
+    margin-left: 0px;
+  }
+
+  .elfsight-app-3ac1cce8-ea67-4613-820d-6449c121aa9a {
+    width: 350px;
+  }
+
+  .footer {
+    width: 350px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: block;
+  }
+
+  .footer h3 {
+    font-size: 30px;
+    width: 310px;
+  }
+
+  .footer h4 {
+    font-size: 25px;
+    width: 310px;
+  }
+
+  .footer a {
+    color: blue;
+  }
+
+  .footer iframe {
+    height: 220px;
+    width: 280px;
+    border-radius: 5px;
+  }
+}
+
+@media only screen and (width: 430px) {
+  .logo img {
+    height: 40vh;
+  }
+}
+
+@media only screen and (min-width: 424px) and (max-width: 550px) {
+  /* Mobile L */
+  body {
+    font-size: small;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+  
+  .navbar-brand {
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
+  .carousel img {
+    height: 300px;
+  }
+
+  .logo img {
+    height: 50vh;
+    margin-left: 0px;
+  }
+
+  .elfsight-app-3ac1cce8-ea67-4613-820d-6449c121aa9a {
+    width: 400px;
+  }
+
+  .footer {
+    width: 400px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: block;
+  }
+
+  .footer h3 {
+    font-size: 30px;
+    width: 360px;
+  }
+
+  .footer h4 {
+    font-size: 25px;
+    width: 360px;
+  }
+
+  .footer hr {
+    width: 360px;
+  }
+
+  .footer a {
+    color: blue;
+  }
+
+  .footer iframe {
+    height: 320px;
+    width: 350px;
+    border-radius: 5px;
+  }
+}
+
+@media only screen and (min-width: 550px) and (max-width: 991px) {
+  /* Mobile L and Tablet */
+  body {
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+  
+  .navbar-brand {
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
+  .carousel img {
+    height: 500px;
+  }
+
+  .logo img {
+    height: 50vh;
+    margin-left: 0px;
+  }
+
+  .elfsight-app-3ac1cce8-ea67-4613-820d-6449c121aa9a {
+    width: 300px;
+  }
+
+  .footer {
+    width: 745px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: block;
+  }
+
+  .footer h3 {
+    font-size: 35px;
+    width: 745px;
+  }
+
+  .footer h4 {
+    font-size: 30px;
+    width: 745px;
+  }
+
+  .footer hr {
+    width: 700px;
+  }
+
+  .footer a {
+    color: blue;
+  }
+
+  .footer iframe {
+    height: 385px;
+    width: 432px;
+    border-radius: 5px;
+  }
+
+  .widgets {
+    display: flex;
+  }
+}
+
+@media only screen and (min-width: 991px) and (max-width: 1024px) {
+  /* Portrait tablets and Laptops */
+  body {
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+  
+  .navbar-brand {
+    margin-right: 200px;
+    margin-left: 100px;
+  }
+
+  .carousel img {
+    height: 500px;
+  }
+
+  .logo img {
+    height: 50vh;
+    margin-left: 0px;
+  }
+
+  .elfsight-app-3ac1cce8-ea67-4613-820d-6449c121aa9a {
+    width: 300px;
+  }
+
+  .footer {
+    width: 1000px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: block;
+  }
+
+  .footer h3 {
+    font-size: 35px;
+    width: 1000px;
+  }
+
+  .footer h4 {
+    font-size: 30px;
+    width: 1000px;
+  }
+
+  .footer hr {
+    width: 950px;
+  }
+
+  .footer a {
+    color: blue;
+  }
+
+  .footer iframe {
+    height: 385px;
+    width: 650px;
+    border-radius: 5px;
+  }
+
+  .widgets {
+    display: flex;
+  }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1440px) {
+  /* Laptop */
+  body {
+    font-size: medium;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+  
+  .navbar-brand {
+    margin-right: 200px;
+    margin-left: 100px;
+  }
+
+  .carousel img {
+    height: 600px;
+  }
+
+  .logo img {
+    height: 50vh;
+    margin-left: 0px;
+  }
+
+  .elfsight-app-3ac1cce8-ea67-4613-820d-6449c121aa9a {
+    width: 310px;
+  }
+
+  .footer {
+    width: 1001px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .footer h3 {
+    font-size: 40px;
+    width: 1001px;
+  }
+
+  .footer h4 {
+    font-size: 35px;
+    width: 1001px;
+  }
+
+  .footer hr {
+    width: 970px;
+  }
+
+  .footer a {
+    color: blue;
+  }
+
+  .footer iframe {
+    height: 385px;
+    width: 670px;
+    border-radius: 5px;
+  }
+
+  .widgets {
+    display: flex;
+  }
+}
+
+@media only screen and (min-width: 1440px) {
+  /* Laptop L */
+  body {
+    font-size: larger;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+  
+  .navbar-brand {
+    margin-right: 500px;
+    margin-left: 200px;
+  }
+
+  .carousel img {
+    height: 800px;
+  }
+
+  .logo img {
+    height: 50vh;
+    margin-left: 0px;
+  }
+
+  .elfsight-app-3ac1cce8-ea67-4613-820d-6449c121aa9a {
+    width: 310px;
+    height: 500px;
+  }
+
+  .footer {
+    width: 1650px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .footer h3 {
+    font-size: 40px;
+    width: 500px;
+  }
+
+  .footer h4 {
+    font-size: 35px;
+    width: 500px;
+  }
+
+  .footer hr {
+    width: 500px;
+  }
+
+  .footer a {
+    color: blue;
+  }
+
+  .footer iframe {
+    height: 390px;
+    width: 470px;
+    border-radius: 5px;
+  }
+
+  .widgets {
+    display: flex;
+  }
+}
